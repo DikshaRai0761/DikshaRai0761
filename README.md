@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![IMG-20240726-WA0001](https://github.com/user-attachments/assets/a49d6e36-0159-404a-801e-668898420770)
 <h1 align="center">Hi 👋, I'm Diksha Rai</h1>
 <h3 align="center">A passionate and driven to-be software engineer with experties in java programming, and Fronted-End web developer from India.frontend developer from India</h3>
 
