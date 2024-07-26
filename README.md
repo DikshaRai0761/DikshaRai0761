@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5616AQEKxTIUonqoxA/profile-displaybackgroundimage-shrink_350_1400/0/1718176233423?e=1727308800&v=beta&t=QoAiY5ywK_TC5amKKYTRV93wgoIjUZck3qe-UpaW7Zs
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Diksha Rai</h1>
 <h3 align="center">A passionate and driven to-be software engineer with experties in java programming, and Fronted-End web developer from India.frontend developer from India</h3>
 
