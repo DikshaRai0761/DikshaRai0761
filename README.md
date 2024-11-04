@@ -104,8 +104,9 @@
 <a href="https://github.com/DikshaRai0761"target="_blank">
 <img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
-  <a href="https://discord.com/users/himani0002" target="_blank">
+  <a href="https://discord.gg/3reqMhdf" target="_blank">
 <img src="https://img.shields.io/badge/Discord-c77cf2?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
 </a>
 </div>
+
 
