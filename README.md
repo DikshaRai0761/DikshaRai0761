@@ -40,11 +40,11 @@
 ### 📊 <span style="color:#c77cf2;">GitHub Stats:</span> ✨
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Himani0002&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=c77cf2&icon_color=c77cf2&text_color=c77cf2&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DikshaRai0761&show_icons=true&locale=en&theme=synthwave&hide_border=true&title_color=c77cf2&icon_color=c77cf2&text_color=c77cf2&bg_color=0d1117" alt="GitHub Stats" height="200" width="420"/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani0002&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=c77cf2&icon_color=c77cf2&text_color=c77cf2&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DikshaRai0761&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=c77cf2&icon_color=c77cf2&text_color=c77cf2&bg_color=0d1117" alt="Top Languages" height="200" width="300"/>
 
-<img src="https://streak-stats.demolab.com/?user=Himani0002&theme=neon-dark&hide_border=true&stroke=c77cf2&ring=c77cf2&fire=c77cf2&currStreakLabel=c77cf2" alt="GitHub Streak Stats" height="200" width="420"/>
+<img src="https://streak-stats.demolab.com/?user=DikshaRai0761&theme=neon-dark&hide_border=true&stroke=c77cf2&ring=c77cf2&fire=c77cf2&currStreakLabel=c77cf2" alt="GitHub Streak Stats" height="200" width="420"/>
 
 ---
 
@@ -98,10 +98,10 @@
 <a href="https://www.linkedin.com/in/himani-gohil" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-c77cf2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
-<a href="mailto:himanigohil0002@gmail.com">
+<a href="diksharai07610761@gmail.com">
 <img src="https://img.shields.io/badge/Email-c77cf2?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
-<a href="https://github.com/Himani0002" target="_blank">
+<a href=""target="_blank">
 <img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
   <a href="https://discord.com/users/himani0002" target="_blank">
