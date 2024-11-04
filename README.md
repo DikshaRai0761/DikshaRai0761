@@ -95,7 +95,7 @@
 ### 💌 <span style="color:#c77cf2;">Let's Connect!</span>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/himani-gohil" target="_blank">
+<a href="https://www.linkedin.com/in/diksha-rai-553a92297" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-c77cf2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="diksharai07610761@gmail.com">
