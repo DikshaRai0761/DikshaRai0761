@@ -101,7 +101,7 @@
 <a href="diksharai07610761@gmail.com">
 <img src="https://img.shields.io/badge/Email-c77cf2?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
-<a href=""target="_blank">
+<a href="https://github.com/DikshaRai0761"target="_blank">
 <img src="https://img.shields.io/badge/GitHub-c77cf2?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
   <a href="https://discord.com/users/himani0002" target="_blank">
