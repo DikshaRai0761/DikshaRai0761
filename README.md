@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/Express.js-c77cf2?style=for-the-badge&logoColor=black" alt="Express.js"/>
 <img src="https://img.shields.io/badge/React.js-c77cf2?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
 <img src="https://img.shields.io/badge/MongoDB-c77cf2?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/JavaScript-c77cf2?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-c77cf2?style=for-the-badge&logo=tailwind-css&logoColor=black" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-c77cf2?style=for-the-badge&logo=javascript&logoColor=black"alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-c77cf2?style=for-the-badge&logo=tailwind-css&logoColor=black"alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Git-c77cf2?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
 </div>
 
