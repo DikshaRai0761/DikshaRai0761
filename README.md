@@ -3,9 +3,7 @@
   <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&color=64FFDA&width=435&lines=Hi+I'm+Diksha+Rai+👩‍💻;Full+Stack+Developer+from+India;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90eebf&center=true&vCenter=true&width=435&lines=Hey+There%F0%9F%91%8B%2C+I'm+Diksha+Rai+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+To+My+World!%F0%9F%9A%80" alt="Typing SVG" />
 
 <hr style="border-top: 2px dashed #64FFDA" />
 
