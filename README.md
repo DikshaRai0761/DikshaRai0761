@@ -114,4 +114,4 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐️ From <a href="https://github.com/DikshaRai0761#:~:text=Diksha,-DikshaRai0761%20%C2%B7%20she">Aleeza</a> 
+⭐️ From <a href="https://github.com/DikshaRai0761#:~:text=Diksha,-DikshaRai0761%20%C2%B7%20she">Diksha</a> 
