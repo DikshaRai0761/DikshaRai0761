@@ -20,21 +20,21 @@
 
 <div align="center">
 <!-- Profile Views Badge -->
-  <a href="https://github.com/Aleeze123">
+  <a href="">
     <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
-<!--   <a href="https://github.com/Aleeze123">
+<!--   <a href="https://github.com/DikshaRai0761">
   <img src="https://profile-counter.glitch.me/Aleeze123/count.svg" alt="Profile Views"/>
 </a> -->
   <a href="https://github.com/Aleeze123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Aleeze123?label=Followers&style=social" alt="Github Followers"/>
+    <img src="https://img.shields.io/github/followers/DikshaRai0761?label=Followers&style=social" alt="Github Followers"/>
   </a>
   <p>
     - 🔭 I am currently a student at the United Institute of Technology. <br>
     - 💬 Ask me anything about tech, coding, or anything else!<br>
     - 📫 Reach me at: <a href="mailto:diksharai07610761@gmail.com">diksharai07610761@gmail.com</a> | <a href="https://www.linkedin.com/in/aleeza-a-i68735305/">LinkedIn</a><br>
     - 😄 Pronouns: she/her<br>
-    - 🌐 <a href="https://next-js-milestone02-portfolio.vercel.app/">Check out my Portfolio</a> 🌟
+    - 🌐 <a href="https://diksharai0761.github.io/Portfolio/">Check out my Portfolio</a> 🌟
   </p>
 </div>
 
@@ -52,7 +52,7 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 ### 🌐 Socials:
 
 <div align="center">
-  <a href="https://github.com/Aleeze123">
+  <a href="https://github.com/DikshaRai0761">
     <img src="https://img.shields.io/badge/Github-coral?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/diksha-rai-553a92297/">
@@ -86,7 +86,7 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/diksharai0761/diksharai0761/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DikshaRai0761/DikshaRai0761/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -104,14 +104,14 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&bg_color=000000&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aleeze123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DikshaRai0761&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeze123&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DikshaRai0761&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aleeze123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DikshaRai0761&theme=dark&hide_border=false)<br/>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐️ From <a href="https://github.com/Aleeze123#:~:text=Aleeze,-Aleeze123%20%C2%B7%20she">Aleeza</a> 
+⭐️ From <a href="https://github.com/DikshaRai0761#:~:text=Diksha,-DikshaRai0761%20%C2%B7%20she">Aleeza</a> 
