@@ -21,7 +21,7 @@
 <div align="center">
 <!-- Profile Views Badge -->
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=Aleeze123&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=DikshaRai0761&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
   </a>
 <!--   <a href="https://github.com/DikshaRai0761">
   <img src="https://profile-counter.glitch.me/DikshaRai0761/count.svg" alt="Profile Views"/>
@@ -100,8 +100,8 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 </p>
 
 # 🚀 GitHub Stats:
-![Aleeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleeze123&show_icons=true&theme=dark)
-![](https://github-readme-activity-graph.vercel.app/graph?username=Aleeze123&bg_color=000000&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)
+![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DikshaRai&show_icons=true&theme=dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=DikshaRai0761&bg_color=000000&color=ffffff&line=1100ff&point=ffffff&area=true&hide_border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DikshaRai0761&limit=5&theme=dark&combine_all_yearly_contributions=true)
