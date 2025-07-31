@@ -86,10 +86,6 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DikshaRai0761/DikshaRai0761/output/snake.svg" alt="Snake animation" />
-
-###
-
 ### Languages and Tools:
 
 
