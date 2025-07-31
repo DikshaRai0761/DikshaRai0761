@@ -32,7 +32,7 @@
   <p>
     - 🔭 I am currently a student at the United Institute of Technology. <br>
     - 💬 Ask me anything about tech, coding, or anything else!<br>
-    - 📫 Reach me at: <a href="mailto:diksharai07610761@gmail.com">diksharai07610761@gmail.com</a> | <a href="https://www.linkedin.com/in/aleeza-a-i68735305/">LinkedIn</a><br>
+    - 📫 Reach me at: <a href="mailto:diksharai07610761@gmail.com">diksharai07610761@gmail.com</a> | <a href="https://www.linkedin.com/in/diksha-rai-553a92297/">LinkedIn</a><br>
     - 😄 Pronouns: she/her<br>
     - 🌐 <a href="https://diksharai0761.github.io/Portfolio/">Check out my Portfolio</a> 🌟
   </p>
@@ -86,7 +86,7 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DikshaRai0761/DikshaRai0761/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DikshaRai0761/DikshaRai0761/output/snake.sv" alt="Snake animation" />
 
 ###
 
