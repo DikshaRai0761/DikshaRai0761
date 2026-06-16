@@ -107,3 +107,16 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+### 🌱 Currently Learning
+
+---
+
+## 🚀 My Projects
+
+<a href="https://github.com/diksharai9/REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diksharai9&repo=REPO-NAME&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/diksharai9/REPO-NAME-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diksharai9&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+</a>
