@@ -113,7 +113,7 @@ Hello! I'm **Diksha Rai**, a **Full-Stack Developer** and a passionate **Tech En
 
 ## 🚀 My Projects
 
-<a href="https://github.com/diksharai9/REPO-NAME">
+<a href="https://github.com/DikshaRai0761/InterviewAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=diksharai9&repo=REPO-NAME&theme=tokyonight&hide_border=true" />
 </a>
 
